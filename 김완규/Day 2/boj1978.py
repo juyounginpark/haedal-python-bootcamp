@@ -1,4 +1,4 @@
-N = int(input())
+N = input()
 numbers = list(map(int, input().split()))
 prime_count = 0
 
